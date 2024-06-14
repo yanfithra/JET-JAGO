@@ -1,6 +1,6 @@
-# Nama Proyek
+# JET JAGO
 
-Deskripsi singkat tentang apa yang dilakukan proyek ini.
+Animasi Game 2D Ursian Engine
 
 ## Fitur
 
