@@ -11,15 +11,9 @@ Animasi Game 2D Ursian Engine
 
 
 ## Instalasi
+![image](https://github.com/yanfithra/JET-JAGO/assets/120780746/65a8cdc1-b670-4fc7-a163-27339a4f2c79)
 
-Langkah-langkah untuk menginstal proyek ini.
+![image](https://github.com/yanfithra/JET-JAGO/assets/120780746/da38d5c4-4dab-4a46-a85e-47fe87fb0895)
 
-```bash
-# Kloning repositori ini
-git clone https://github.com/username/nama-proyek.git
+![image](https://github.com/yanfithra/JET-JAGO/assets/120780746/47c42055-8b9d-4bf4-98f2-0f1bcb304622)
 
-# Masuk ke direktori proyek
-cd nama-proyek
-
-# Instal dependensi
-npm install
